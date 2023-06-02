@@ -1,0 +1,621 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,whatAd,focus_1,focus_2,focus_3,focus_4,focus_5,annoy_1,annoy_2,annoy_3,annoy_4,annoy_5,PROLIFIC_PID,STUDY_ID,SESSION_ID
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,What type of ad would you rather see on youtube out of the options provided below?,"On a scale of 0 to 100, how much would you be focussed on the ad in each of the given scenarios? - Skippable ads that you have to watch for 5 seconds before you can skip them to watch your video","On a scale of 0 to 100, how much would you be focussed on the ad in each of the given scenarios? - Ad that appears on the right-hand side of the video you want to watch. When you land on your video's page, the video immediately starts playing with sound whereas the ad is paused.","On a scale of 0 to 100, how much would you be focussed on the ad in each of the given scenarios? - Ad that appears on the right-hand side of the video you want to watch. When you land on your video's page, the video is paused whereas the ad immediately starts playing with sound.","On a scale of 0 to 100, how much would you be focussed on the ad in each of the given scenarios? - Ad that appears on the right-hand side of the video you want to watch. When you land on your video's page, the video immediately starts playing with sound and the ad immediately starts playing without sound.","On a scale of 0 to 100, how much would you be focussed on the ad in each of the given scenarios? - Ad that appears on the right-hand side of the video you want to watch. When you land on your video's page, the video immediately starts playing without sound and the ad immediately starts playing with sound.","On a scale of 0 to 100, how annoying would you find the ad in each of the given scenarios? - Skippable ads that you have to watch for 5 seconds before you can skip them to watch your video","On a scale of 0 to 100, how annoying would you find the ad in each of the given scenarios? - Ad that appears on the right-hand side of the video you want to watch. When you land on your video's page, the video immediately starts playing with sound whereas the ad is paused.","On a scale of 0 to 100, how annoying would you find the ad in each of the given scenarios? - Ad that appears on the right-hand side of the video you want to watch. When you land on your video's page, the video is paused whereas the ad immediately starts playing with sound.","On a scale of 0 to 100, how annoying would you find the ad in each of the given scenarios? - Ad that appears on the right-hand side of the video you want to watch. When you land on your video's page, the video immediately starts playing with sound and the ad immediately starts playing without sound.","On a scale of 0 to 100, how annoying would you find the ad in each of the given scenarios? - Ad that appears on the right-hand side of the video you want to watch. When you land on your video's page, the video immediately starts playing without sound and the ad immediately starts playing with sound.",PROLIFIC_PID,STUDY_ID,SESSION_ID
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID1""}","{""ImportId"":""QID2_1""}","{""ImportId"":""QID2_2""}","{""ImportId"":""QID2_3""}","{""ImportId"":""QID2_4""}","{""ImportId"":""QID2_5""}","{""ImportId"":""QID3_1""}","{""ImportId"":""QID3_2""}","{""ImportId"":""QID3_3""}","{""ImportId"":""QID3_4""}","{""ImportId"":""QID3_5""}","{""ImportId"":""PROLIFIC_PID""}","{""ImportId"":""STUDY_ID""}","{""ImportId"":""SESSION_ID""}"
+2023-05-31 23:36:09,2023-05-31 23:36:47,Survey Preview,,100,38,True,2023-05-31 23:36:48,R_2Qm1NyCjmUEX3z5,,,,,49.8956,-119.4897,preview,EN,"Ad that appears on the right-hand side of the video you want to watch. When you land on your video's page, the video immediately starts playing without sound and the ad immediately starts playing with sound.
+
+
+
+
+ ",79,71,67,95,89,,,,,,,,
+2023-05-31 23:41:15,2023-05-31 23:41:55,Survey Preview,,100,39,True,2023-05-31 23:41:56,R_268BnnkQRKkayHY,,,,,49.8956,-119.4897,preview,EN,"Ad that appears on the right-hand side of the video you want to watch. When you land on your video's page, the video immediately starts playing without sound and the ad immediately starts playing with sound.
+
+
+
+
+ ",80,84,81,95,76,69,75,80,84,77,,,
+2023-06-01 13:14:29,2023-06-01 13:16:28,IP Address,172.221.48.34,100,119,True,2023-06-01 13:16:28,R_3Ra1UkPIrcLj90c,,,,,39.4972,-119.7764,anonymous,EN,"Ad that appears on the right-hand side of the video you want to watch. When you land on your video's page, the video immediately starts playing with sound and the ad immediately starts playing without sound.
+
+
+
+
+ ",79,37,71,34,76,32,32,91,68,62,628ed30ae7ff849e8bc91c86,6478e286dea25592707160af,6478ee0dfd4d7ed48cbe1a1c
+2023-06-01 13:17:53,2023-06-01 13:19:01,IP Address,104.14.95.187,100,68,True,2023-06-01 13:19:02,R_vCbV0jdtck5At3z,,,,,41.0782,-81.5223,anonymous,EN,"Skippable ads that you have to watch for 5 seconds before you can skip them to watch your video
+
+
+
+
+ ",5,39,39,42,42,61,96,100,91,100,60fda3957b84fb03808c70f0,6478e286dea25592707160af,6478eedc96c7ffe6fd8bbb53
+2023-06-01 13:15:29,2023-06-01 13:19:15,IP Address,75.76.238.35,100,226,True,2023-06-01 13:19:16,R_33CnC1LS9M72LcF,,,,,39.9881,-83.0479,anonymous,EN,"Skippable ads that you have to watch for 5 seconds before you can skip them to watch your video
+
+
+
+
+ ",20,50,100,80,90,40,60,100,90,100,615cf2d3e9dfb81e7ef3668d,6478e286dea25592707160af,6478ee4e54ec43dbeea259fc
+2023-06-01 13:18:34,2023-06-01 13:20:10,IP Address,208.180.250.218,100,96,True,2023-06-01 13:20:10,R_1r7Ye8AoR6XTYDn,,,,,30.6032,-96.3136,anonymous,EN,"Skippable ads that you have to watch for 5 seconds before you can skip them to watch your video
+
+
+
+
+ ",0,0,0,0,0,15,30,100,40,100,5b96aaa146f9220001eede46,6478e286dea25592707160af,6478ef045d2bbd3e80cd294f
+2023-06-01 13:17:16,2023-06-01 13:20:10,IP Address,50.0.172.136,100,174,True,2023-06-01 13:20:11,R_BEzu7RYXGzkYZY5,,,,,37.8007,-122.4097,anonymous,EN,"Skippable ads that you have to watch for 5 seconds before you can skip them to watch your video
+
+
+
+
+ ",10,15,30,25,60,15,25,45,55,75,6234b36572ba11d3e3089e49,6478e286dea25592707160af,6478eeb295fd36b606929261
+2023-06-01 13:20:30,2023-06-01 13:22:07,IP Address,174.170.224.86,100,97,True,2023-06-01 13:22:08,R_1GwEqNnwIdSdpVB,,,,,29.7646,-95.3657,anonymous,EN,"Skippable ads that you have to watch for 5 seconds before you can skip them to watch your video
+
+
+
+
+ ",9,15,3,1,0,35,100,100,100,100,63d165bb3190f492951fa6ad,6478e286dea25592707160af,6478ef76c4415488ae969157
+2023-06-01 13:22:00,2023-06-01 13:25:01,IP Address,67.181.115.96,100,181,True,2023-06-01 13:25:02,R_3ktUyNlu1HPigBi,,,,,38.0004,-121.3105,anonymous,EN,"Ad that appears on the right-hand side of the video you want to watch. When you land on your video's page, the video immediately starts playing with sound and the ad immediately starts playing without sound.
+
+
+
+
+ ",50,50,0,60,0,80,20,100,10,100,5feffe5b069e3b33013fc664,6478e286dea25592707160af,6478efd226029b7948a3c32c
+2023-06-01 13:23:48,2023-06-01 13:25:07,IP Address,206.248.203.18,100,79,True,2023-06-01 13:25:08,R_2urIAjhXmulapMF,,,,,39.9122,-80.7295,anonymous,EN,"Skippable ads that you have to watch for 5 seconds before you can skip them to watch your video
+
+
+
+
+ ",0,53,53,53,53,15,100,100,100,100,627288c5146479169a28cd03,6478e286dea25592707160af,6478f03f7116236b3f361432
+2023-06-01 13:24:28,2023-06-01 13:26:01,IP Address,76.217.41.51,100,92,True,2023-06-01 13:26:01,R_3R2wErZpwvVVHCc,,,,,36.1835,-94.1762,anonymous,EN,"Skippable ads that you have to watch for 5 seconds before you can skip them to watch your video
+
+
+
+
+ ",0,1,0,0,0,66,100,100,100,100,594fb08ea186be000114d023,6478e286dea25592707160af,6478f05e366811f98a50771e
+2023-06-01 13:24:52,2023-06-01 13:26:52,IP Address,184.58.244.146,100,120,True,2023-06-01 13:26:52,R_1pxt5GMA05TekRo,,,,,43.0026,-87.9417,anonymous,EN,"Ad that appears on the right-hand side of the video you want to watch. When you land on your video's page, the video immediately starts playing with sound whereas the ad is paused.
+
+
+
+
+ ",4,9,27,37,36,52,59,84,85,85,5c319a0502cc4a0001a012d8,6478e286dea25592707160af,6478f07ca638cdc2a4f3da2d
+2023-06-01 13:22:08,2023-06-01 13:27:08,IP Address,32.214.245.213,100,300,True,2023-06-01 13:27:08,R_3IQtcR440PqRkjc,,,,,41.5481,-73.0012,anonymous,EN,"Skippable ads that you have to watch for 5 seconds before you can skip them to watch your video
+
+
+
+
+ ",21,89,89,89,95,87,59,69,73,73,637d69bd2bc2aeda148b4d83,6478e286dea25592707160af,6478efc472a4621072880405
+2023-06-01 13:27:42,2023-06-01 13:28:32,IP Address,47.22.164.10,100,49,True,2023-06-01 13:28:32,R_3KTucFCTv3UVpMA,,,,,40.828,-73.8685,anonymous,EN,"Skippable ads that you have to watch for 5 seconds before you can skip them to watch your video
+
+
+
+
+ ",0,0,0,0,0,96,100,100,100,100,63fb616a798d079c9ee0a7ff,6478e286dea25592707160af,6478f1251f2c6cf86d361412
+2023-06-01 13:29:19,2023-06-01 13:31:10,IP Address,24.254.116.128,100,110,True,2023-06-01 13:31:11,R_RzdNMCyrwlvUZHj,,,,,30.4062,-87.2182,anonymous,EN,"Ad that appears on the right-hand side of the video you want to watch. When you land on your video's page, the video immediately starts playing with sound whereas the ad is paused.
+
+
+
+
+ ",70,10,34,30,65,41,32,62,87,64,63ea53e0ddf55cd04e5fc984,6478e286dea25592707160af,6478f17c0e58bed5d53c9f7d
+2023-06-01 13:30:33,2023-06-01 13:31:12,IP Address,24.243.148.129,100,38,True,2023-06-01 13:31:13,R_1DME8YTUP3f6QtZ,,,,,30.2732,-97.7419,anonymous,EN,"Ad that appears on the right-hand side of the video you want to watch. When you land on your video's page, the video immediately starts playing with sound and the ad immediately starts playing without sound.
+
+
+
+
+ ",20,23,58,29,63,82,81,82,88,87,616c4a95398b06c2c85b32ed,6478e286dea25592707160af,6478f1d543278522e5be1a36
+2023-06-01 13:31:26,2023-06-01 13:32:12,IP Address,24.194.225.157,100,46,True,2023-06-01 13:32:13,R_3MK93DU9q2VH1eK,,,,,43.0592,-73.7356,anonymous,EN,"Skippable ads that you have to watch for 5 seconds before you can skip them to watch your video
+
+
+
+
+ ",72,41,59,70,86,61,100,100,100,100,6341b868a41dcb8f252c509a,6478e286dea25592707160af,6478f2078854dfe5612bc89c
+2023-06-01 13:30:12,2023-06-01 13:32:22,IP Address,73.187.178.17,100,130,True,2023-06-01 13:32:23,R_3GpQXf1BJxz6Pjc,,,,,40.3473,-75.9305,anonymous,EN,"Ad that appears on the right-hand side of the video you want to watch. When you land on your video's page, the video immediately starts playing with sound and the ad immediately starts playing without sound.
+
+
+
+
+ ",50,11,81,8,80,91,28,81,16,93,60b38213928fdb2d6d9d8c9c,6478e286dea25592707160af,6478f1bf44ad004c4b24f672
+2023-06-01 13:32:01,2023-06-01 13:33:44,IP Address,99.56.247.237,100,102,True,2023-06-01 13:33:45,R_1PY5C3efe5fdtBH,,,,,35.401,-80.8688,anonymous,EN,"Skippable ads that you have to watch for 5 seconds before you can skip them to watch your video
+
+
+
+
+ ",0,0,0,0,0,50,50,50,50,50,5f29aed2c46fc6118f5980c3,6478e286dea25592707160af,6478f22ce339107cfb775bb6
+2023-06-01 13:32:10,2023-06-01 13:34:06,IP Address,66.110.252.74,100,115,True,2023-06-01 13:34:07,R_2zDbTzP1tmZ4fyI,,,,,36.002,-80.0004,anonymous,EN,"Ad that appears on the right-hand side of the video you want to watch. When you land on your video's page, the video is paused whereas the ad immediately starts playing with sound.
+
+
+
+
+ ",26,79,42,44,67,55,68,75,76,66,5dc7870428e0d566b626bcb9,6478e286dea25592707160af,6478f22e74f13a3c0e8803ac
+2023-06-01 13:31:44,2023-06-01 13:34:16,IP Address,108.252.31.161,100,152,True,2023-06-01 13:34:17,R_1GOI5dOlJ88LipC,,,,,29.7215,-95.3159,anonymous,EN,"Ad that appears on the right-hand side of the video you want to watch. When you land on your video's page, the video immediately starts playing with sound whereas the ad is paused.
+
+
+
+
+ ",0,19,73,14,67,78,3,100,33,100,62a71eebc15351df4bddd9f8,6478e286dea25592707160af,6478f21896d02d754218a800
+2023-06-01 13:33:24,2023-06-01 13:34:20,IP Address,68.0.242.88,100,56,True,2023-06-01 13:34:21,R_10vmCEQvjCyEHVf,,,,,41.6047,-72.8813,anonymous,EN,"Skippable ads that you have to watch for 5 seconds before you can skip them to watch your video
+
+
+
+
+ ",11,74,69,71,71,7,95,97,96,96,57509b61d6edf00006ff7fcb,6478e286dea25592707160af,6478f27c26063f1810cc2c08
+2023-06-01 13:30:51,2023-06-01 13:34:25,IP Address,172.58.123.153,100,214,True,2023-06-01 13:34:26,R_3ltCXkxTKkhf2ne,,,,,42.3888,-83.1895,anonymous,EN,"Ad that appears on the right-hand side of the video you want to watch. When you land on your video's page, the video immediately starts playing with sound whereas the ad is paused.
+
+
+
+
+ ",100,0,100,30,100,60,10,100,25,100,558af269fdf99b7dfef4d7bd,6478e286dea25592707160af,6478f1e50b324005dccc2c2b
+2023-06-01 13:33:05,2023-06-01 13:35:05,IP Address,108.216.6.119,100,119,True,2023-06-01 13:35:06,R_1dKUCz4UsI7AfWY,,,,,29.9475,-81.5264,anonymous,EN,"Ad that appears on the right-hand side of the video you want to watch. When you land on your video's page, the video immediately starts playing with sound and the ad immediately starts playing without sound.
+
+
+
+
+ ",32,46,49,44,46,75,75,75,75,75,6334f074d8c62dca5081e66c,6478e286dea25592707160af,6478f26a0b324005dccc2c5a
+2023-06-01 13:34:24,2023-06-01 13:35:52,IP Address,47.144.80.108,100,88,True,2023-06-01 13:35:53,R_vP8bU7jH43NirXH,,,,,34.0121,-117.6883,anonymous,EN,"Skippable ads that you have to watch for 5 seconds before you can skip them to watch your video
+
+
+
+
+ ",80,37,75,29,66,38,37,79,71,51,6113aa1a4874aefe7be5ef75,6478e286dea25592707160af,6478f2b75c3abfda5be99d09
+2023-06-01 13:34:53,2023-06-01 13:36:29,IP Address,24.255.72.192,100,95,True,2023-06-01 13:36:30,R_2OThuvBlW7TNy5P,,,,,37.2951,-79.987,anonymous,EN,"Skippable ads that you have to watch for 5 seconds before you can skip them to watch your video
+
+
+
+
+ ",10,0,0,0,0,50,100,100,100,100,58074104c314770001876e7b,6478e286dea25592707160af,6478f2d7c2a730454c6e97d7
+2023-06-01 13:35:16,2023-06-01 13:37:26,IP Address,174.235.231.200,100,130,True,2023-06-01 13:37:27,R_1gb9WxHUq0mr43v,,,,,35.7919,-78.6541,anonymous,EN,"Skippable ads that you have to watch for 5 seconds before you can skip them to watch your video
+
+
+
+
+ ",0,1,100,0,100,25,99,100,100,100,5994e9b2f9db7d0001895864,6478e286dea25592707160af,6478f2e92ed4596ba6361487
+2023-06-01 13:36:57,2023-06-01 13:37:50,IP Address,68.132.253.104,100,53,True,2023-06-01 13:37:51,R_30kJY81Ksh9YX9C,,,,,40.7597,-73.981,anonymous,EN,"Skippable ads that you have to watch for 5 seconds before you can skip them to watch your video
+
+
+
+
+ ",0,15,15,0,16,70,39,100,100,100,610ca3bb32eb9bf21aed5924,6478e286dea25592707160af,6478f353db7eee45630ed349
+2023-06-01 13:39:37,2023-06-01 13:40:18,IP Address,108.85.158.173,100,40,True,2023-06-01 13:40:19,R_1dMnFd32MCdRwHQ,,,,,32.7863,-80.1055,anonymous,EN,"Skippable ads that you have to watch for 5 seconds before you can skip them to watch your video
+
+
+
+
+ ",71,24,35,62,57,39,36,59,39,61,6109cd6a03dc4d54ad56fa75,6478e286dea25592707160af,6478f3f529599d73f4937d8f
+2023-06-01 13:37:04,2023-06-01 13:40:26,IP Address,50.89.17.59,100,202,True,2023-06-01 13:40:26,R_2dTpTjc7rXS8ysB,,,,,28.2733,-81.1999,anonymous,EN,"Skippable ads that you have to watch for 5 seconds before you can skip them to watch your video
+
+
+
+
+ ",72,8,72,56,82,64,8,100,37,100,5c9567e99d4cac0011609746,6478e286dea25592707160af,6478f3574368b202c6c12562
+2023-06-01 13:38:10,2023-06-01 13:40:35,IP Address,68.205.226.193,100,145,True,2023-06-01 13:40:36,R_cD33e5EFrw5jfGx,,,,,28.5978,-81.3024,anonymous,EN,"Skippable ads that you have to watch for 5 seconds before you can skip them to watch your video
+
+
+
+
+ ",0,0,0,0,0,100,100,100,100,100,5d75af57bcfd5b001b192708,6478e286dea25592707160af,6478f39658cd4e964f25e31e
+2023-06-01 13:39:42,2023-06-01 13:41:02,IP Address,184.189.1.168,100,80,True,2023-06-01 13:41:03,R_1H6mwfEb6N5r6lW,,,,,33.6416,-117.6898,anonymous,EN,"Skippable ads that you have to watch for 5 seconds before you can skip them to watch your video
+
+
+
+
+ ",66,0,0,0,0,100,100,100,100,100,611193396227f81b9ea9ff14,6478e286dea25592707160af,6478f3f5e4336347e2c3e04d
+2023-06-01 13:38:09,2023-06-01 13:41:06,IP Address,35.139.26.205,100,176,True,2023-06-01 13:41:06,R_3JJ0MdMts8zoEd1,,,,,28.2987,-82.6902,anonymous,EN,"Skippable ads that you have to watch for 5 seconds before you can skip them to watch your video
+
+
+
+
+ ",90,0,0,0,0,80,80,90,95,100,643f1d3c24bc4a2d8e44a0ff,6478e286dea25592707160af,6478f39cabb31cbb1242b984
+2023-06-01 13:40:40,2023-06-01 13:43:05,IP Address,98.195.161.61,100,145,True,2023-06-01 13:43:06,R_2AFjzuVRkxDYIlX,,,,,29.646,-95.8023,anonymous,EN,"Skippable ads that you have to watch for 5 seconds before you can skip them to watch your video
+
+
+
+
+ ",15,30,30,15,35,0,50,80,50,80,5eb9adaec2e8960d50c6734b,6478e286dea25592707160af,6478f43026063f1810cc2c74
+2023-06-01 13:42:27,2023-06-01 13:43:09,IP Address,174.232.210.2,100,42,True,2023-06-01 13:43:09,R_2y1Mey3zgTQAkLk,,,,,34.0544,-118.244,anonymous,EN,"Ad that appears on the right-hand side of the video you want to watch. When you land on your video's page, the video immediately starts playing with sound whereas the ad is paused.
+
+
+
+
+ ",37,63,49,38,23,51,20,24,28,50,62ffa989dbd072768cd2a14e,6478e286dea25592707160af,6478f49c098d9ea51342b931
+2023-06-01 13:42:22,2023-06-01 13:43:24,IP Address,73.110.74.211,100,61,True,2023-06-01 13:43:24,R_3ly3jjFNQq96d6k,,,,,41.85,-87.7165,anonymous,EN,"Ad that appears on the right-hand side of the video you want to watch. When you land on your video's page, the video is paused whereas the ad immediately starts playing with sound.
+
+
+
+
+ ",63,75,80,84,72,60,41,63,70,67,5a2add709408dc00016f57d3,6478e286dea25592707160af,6478f4972c2d33efbd2bc8ab
+2023-06-01 13:43:38,2023-06-01 13:44:49,IP Address,72.184.48.174,100,71,True,2023-06-01 13:44:50,R_0xmrZre7R9SlOut,,,,,28.0493,-82.0069,anonymous,EN,"Ad that appears on the right-hand side of the video you want to watch. When you land on your video's page, the video immediately starts playing with sound and the ad immediately starts playing without sound.
+
+
+
+
+ ",1,0,0,0,0,83,20,100,65,100,631e11d95623af5fd1fd4805,6478e286dea25592707160af,6478f4e59d74ecf529df9c2b
+2023-06-01 13:44:49,2023-06-01 13:49:47,IP Address,75.192.24.161,100,298,True,2023-06-01 13:49:48,R_3OpG3HagL6brDBI,,,,,39.5992,-86.13,anonymous,EN,"Ad that appears on the right-hand side of the video you want to watch. When you land on your video's page, the video immediately starts playing with sound whereas the ad is paused.
+
+
+
+
+ ",10,51,0,30,40,100,100,100,100,100,64527c12fe9ceb65346c27bf,6478e286dea25592707160af,6478f51bd6cd92c640c4638f
+2023-06-01 13:48:38,2023-06-01 13:50:24,IP Address,184.91.127.17,100,106,True,2023-06-01 13:50:25,R_ALm7ezY7VixLyVj,,,,,28.6524,-81.4897,anonymous,EN,"Skippable ads that you have to watch for 5 seconds before you can skip them to watch your video
+
+
+
+
+ ",0,0,10,20,20,60,80,100,90,100,5a0af6457ecfc50001be11da,6478e286dea25592707160af,6478f5d327959471ecbbd6e2
+2023-06-01 13:52:14,2023-06-01 13:53:51,IP Address,47.184.80.251,100,97,True,2023-06-01 13:53:52,R_C7w0SRI2eTB4qGt,,,,,33.2205,-97.1294,anonymous,EN,"Skippable ads that you have to watch for 5 seconds before you can skip them to watch your video
+
+
+
+
+ ",67,13,12,9,4,6,97,94,94,96,5bf0a682e938aa0001df6c54,6478e286dea25592707160af,6478f6d73845c34cc6c0bd0e
+2023-06-01 13:53:15,2023-06-01 13:54:02,IP Address,24.207.131.25,100,47,True,2023-06-01 13:54:02,R_RfT2yXJaNo1MrCh,,,,,38.6287,-90.1988,anonymous,EN,"Skippable ads that you have to watch for 5 seconds before you can skip them to watch your video
+
+
+
+
+ ",71,24,77,33,72,60,69,87,77,71,5ef2d7247fab4b18187eb534,6478e286dea25592707160af,6478f7272c1f9dd1bbbc1ab9
+2023-06-01 13:51:00,2023-06-01 13:54:03,IP Address,172.58.122.211,100,183,True,2023-06-01 13:54:04,R_3sgNAqgwfQ2URaO,,,,,42.3761,-83.0775,anonymous,EN,"Ad that appears on the right-hand side of the video you want to watch. When you land on your video's page, the video immediately starts playing with sound and the ad immediately starts playing without sound.
+
+
+
+
+ ",21,57,62,91,70,86,77,71,58,65,5de7c6d448241d73d36ceaef,6478e286dea25592707160af,6478f69bac48b5dc0b507760
+2023-06-01 13:52:04,2023-06-01 13:54:16,IP Address,24.14.20.39,100,132,True,2023-06-01 13:54:17,R_1jrHjJ4LPGUxRK5,,,,,41.64,-88.0717,anonymous,EN,"Ad that appears on the right-hand side of the video you want to watch. When you land on your video's page, the video immediately starts playing with sound and the ad immediately starts playing without sound.
+
+
+
+
+ ",6,32,92,72,42,38,38,81,67,88,614f7ad0514948b4efe25e13,6478e286dea25592707160af,6478f6ded3358b45ab84fd2c
+2023-06-01 13:54:02,2023-06-01 13:54:57,IP Address,100.11.61.236,100,54,True,2023-06-01 13:54:57,R_1g72v6WJmElS6Gd,,,,,40.1545,-74.8854,anonymous,EN,"Skippable ads that you have to watch for 5 seconds before you can skip them to watch your video
+
+
+
+
+ ",19,3,0,0,0,71,100,93,100,100,5d90c4fadf90b6001549561e,6478e286dea25592707160af,6478f7535806ac4722d2bcba
+2023-06-01 13:53:08,2023-06-01 13:55:38,IP Address,73.14.62.50,100,149,True,2023-06-01 13:55:39,R_24oUOlJ0QacfoCQ,,,,,39.9038,-104.9419,anonymous,EN,"Ad that appears on the right-hand side of the video you want to watch. When you land on your video's page, the video immediately starts playing without sound and the ad immediately starts playing with sound.
+
+
+
+
+ ",23,16,24,12,0,61,77,84,66,38,616c4f1eacaf6dcc36160230,6478e286dea25592707160af,6478f719241dc6ee053c9f9d
+2023-06-01 13:52:54,2023-06-01 13:55:49,IP Address,44.201.33.136,100,174,True,2023-06-01 13:55:49,R_ZxJbiriqnueT0KR,,,,,39.0469,-77.4903,anonymous,EN,"Skippable ads that you have to watch for 5 seconds before you can skip them to watch your video
+
+
+
+
+ ",0,75,88,60,59,0,100,100,100,100,63d8665164999168637f2029,6478e286dea25592707160af,6478f70a3d13540c17ad5f57
+2023-06-01 13:54:24,2023-06-01 13:57:28,IP Address,98.11.42.191,100,183,True,2023-06-01 13:57:28,R_3lzgvZpa1aCjq0A,,,,,42.0804,-78.4234,anonymous,EN,"Ad that appears on the right-hand side of the video you want to watch. When you land on your video's page, the video immediately starts playing with sound and the ad immediately starts playing without sound.
+
+
+
+
+ ",16,32,100,18,100,10,0,100,0,100,6087ee3e8df094dc6dd69e8e,6478e286dea25592707160af,6478f76aeb4ecd7628a259c0
+2023-06-01 13:57:29,2023-06-01 13:58:24,IP Address,69.122.11.186,100,55,True,2023-06-01 13:58:25,R_3iVBFRV2CmeBbPJ,,,,,40.8344,-73.7008,anonymous,EN,"Skippable ads that you have to watch for 5 seconds before you can skip them to watch your video
+
+
+
+
+ ",18,0,0,0,0,30,72,100,82,100,5ea649d884b9864dbacc4026,6478e286dea25592707160af,6478f825f235020e8f2760c3
+2023-06-01 13:56:01,2023-06-01 13:58:37,IP Address,217.180.216.127,100,156,True,2023-06-01 13:58:38,R_1dLf2sdnUjuslEn,,,,,42.9656,-85.65,anonymous,EN,"Ad that appears on the right-hand side of the video you want to watch. When you land on your video's page, the video immediately starts playing with sound whereas the ad is paused.
+
+
+
+
+ ",0,68,61,15,23,100,12,100,88,99,5484739ffdf99b0379939c95,6478e286dea25592707160af,6478f709c253063bdf8803b9
+2023-06-01 13:57:47,2023-06-01 13:58:43,IP Address,98.222.23.228,100,55,True,2023-06-01 13:58:44,R_3fIYguk69EMorXL,,,,,39.7697,-89.6886,anonymous,EN,"Skippable ads that you have to watch for 5 seconds before you can skip them to watch your video
+
+
+
+
+ ",92,39,29,29,29,36,61,72,71,72,5a9c91196219a30001f534a5,6478e286dea25592707160af,6478f836d8d33fcb9acd2978
+2023-06-01 13:58:11,2023-06-01 13:59:09,IP Address,99.125.160.34,100,58,True,2023-06-01 13:59:10,R_3not2LLaVtiDNPq,,,,,41.8183,-87.6095,anonymous,EN,"Ad that appears on the right-hand side of the video you want to watch. When you land on your video's page, the video immediately starts playing with sound whereas the ad is paused.
+
+
+
+
+ ",51,0,0,0,0,78,85,93,100,100,64568a6af5fd0aaeb10b7de0,6478e286dea25592707160af,6478f7dde43a4f4dad0ed371
+2023-06-01 13:57:47,2023-06-01 13:59:14,IP Address,174.213.209.125,100,86,True,2023-06-01 13:59:14,R_25t3v0FK8q7Y5hk,,,,,37.7007,-97.4383,anonymous,EN,"Skippable ads that you have to watch for 5 seconds before you can skip them to watch your video
+
+
+
+
+ ",87,21,75,7,59,9,61,68,96,92,5c49484a6d9ae80001a1aa72,6478e286dea25592707160af,6478f836449038d3e836c7de
+2023-06-01 13:57:43,2023-06-01 13:59:27,IP Address,23.243.125.38,100,104,True,2023-06-01 13:59:28,R_2AHlwp1Uf6rSMlY,,,,,34.1211,-117.4362,anonymous,EN,"Skippable ads that you have to watch for 5 seconds before you can skip them to watch your video
+
+
+
+
+ ",71,39,74,44,64,60,73,76,77,71,63be3c7ab7bccecc7dc80cd4,6478e286dea25592707160af,6478f82c6fdc155a43ba8ccd
+2023-06-01 13:58:32,2023-06-01 13:59:37,IP Address,67.142.100.9,100,64,True,2023-06-01 13:59:38,R_12hBzhBc4rLmwQa,,,,,39.2807,-80.3493,anonymous,EN,"Skippable ads that you have to watch for 5 seconds before you can skip them to watch your video
+
+
+
+
+ ",13,59,94,68,83,42,100,100,100,96,63b6ec7f786d826fcb66daeb,6478e286dea25592707160af,6478f857d5bfdb5819d8b4f5
+2023-06-01 14:00:00,2023-06-01 14:01:50,IP Address,47.20.53.40,100,110,True,2023-06-01 14:01:51,R_ZpEuK6Ebwpo5lmx,,,,,41.1974,-73.1714,anonymous,EN,"Ad that appears on the right-hand side of the video you want to watch. When you land on your video's page, the video immediately starts playing with sound and the ad immediately starts playing without sound.
+
+
+
+
+ ",10,0,0,0,0,100,100,100,100,100,615351cf254ed1f941d06e61,6478e286dea25592707160af,6478f8b94f9d61ddb26f4c3b
+2023-06-01 13:56:49,2023-06-01 14:02:13,IP Address,104.176.145.107,100,324,True,2023-06-01 14:02:14,R_3MGXOEajFLnCjSe,,,,,33.5716,-101.8545,anonymous,EN,"Skippable ads that you have to watch for 5 seconds before you can skip them to watch your video
+
+
+
+
+ ",95,70,65,45,45,55,50,45,40,35,632b9d9bc38454f47019295c,6478e286dea25592707160af,6478f7e880e0a805cea72095
+2023-06-01 14:01:28,2023-06-01 14:02:27,IP Address,69.107.133.74,100,59,True,2023-06-01 14:02:28,R_3qWiZbqeapBOORq,,,,,34.0297,-84.1469,anonymous,EN,"Skippable ads that you have to watch for 5 seconds before you can skip them to watch your video
+
+
+
+
+ ",18,0,0,0,0,100,100,100,100,100,630ec7fc39d0d4ef36dba564,6478e286dea25592707160af,6478f91355a3495f0cff3f94
+2023-06-01 13:58:28,2023-06-01 14:03:01,IP Address,47.216.222.43,100,273,True,2023-06-01 14:03:02,R_3n1NSMhG85FUIwU,,,,,35.2708,-114.0226,anonymous,EN,"Ad that appears on the right-hand side of the video you want to watch. When you land on your video's page, the video immediately starts playing with sound whereas the ad is paused.
+
+
+
+
+ ",10,9,30,22,42,91,64,82,65,96,62fd447f13212a11c346c151,6478e286dea25592707160af,6478f847854e69862a1f19de
+2023-06-01 14:02:30,2023-06-01 14:03:27,IP Address,73.32.101.26,100,56,True,2023-06-01 14:03:27,R_3JedLRLES5HNOPy,,,,,30.1424,-95.4717,anonymous,EN,"Skippable ads that you have to watch for 5 seconds before you can skip them to watch your video
+
+
+
+
+ ",78,0,0,0,0,0,100,100,100,100,613aad30bcfed65155a026ec,6478e286dea25592707160af,6478f94daf4ea7641f42b97c
+2023-06-01 14:02:40,2023-06-01 14:03:56,IP Address,99.108.141.65,100,76,True,2023-06-01 14:03:57,R_1CIPiFrgOx7KKiq,,,,,37.4152,-122.1224,anonymous,EN,"Skippable ads that you have to watch for 5 seconds before you can skip them to watch your video
+
+
+
+
+ ",10,1,0,0,1,96,100,100,100,100,5fbc2c78c568aa0c84232ce2,6478e286dea25592707160af,6478f92c8e4c21bdc67160ab
+2023-06-01 14:02:53,2023-06-01 14:04:11,IP Address,172.58.123.157,100,77,True,2023-06-01 14:04:12,R_2bZ43OY7yjRl5Fz,,,,,42.3888,-83.1895,anonymous,EN,"Skippable ads that you have to watch for 5 seconds before you can skip them to watch your video
+
+
+
+
+ ",93,46,93,0,65,15,62,87,8,87,61117cb162ca624c2b2a443c,6478e286dea25592707160af,6478f9665a78ab185fbe1a2f
+2023-06-01 14:01:47,2023-06-01 14:04:40,IP Address,99.186.124.155,100,173,True,2023-06-01 14:04:41,R_3Et1rpXvU5sJLfG,,,,,29.7646,-95.3657,anonymous,EN,"Ad that appears on the right-hand side of the video you want to watch. When you land on your video's page, the video immediately starts playing with sound and the ad immediately starts playing without sound.
+
+
+
+
+ ",40,20,20,25,25,80,20,50,30,50,615df1b1d27e6932fca18dfa,6478e286dea25592707160af,6478f92555a3495f0cff3f9a
+2023-06-01 14:03:14,2023-06-01 14:05:10,IP Address,66.168.8.196,100,116,True,2023-06-01 14:05:11,R_2s09gukNYrjsnHC,,,,,44.3476,-89.1116,anonymous,EN,"Skippable ads that you have to watch for 5 seconds before you can skip them to watch your video
+
+
+
+
+ ",5,33,33,33,33,5,33,33,33,33,5b1487d330d562000155f1c7,6478e286dea25592707160af,6478f97c6d664d2c9053a068
+2023-06-01 14:04:30,2023-06-01 14:05:28,IP Address,76.130.210.9,100,58,True,2023-06-01 14:05:29,R_2R2jnJ4qZCUv2Zb,,,,,40.5447,-105.1069,anonymous,EN,"Skippable ads that you have to watch for 5 seconds before you can skip them to watch your video
+
+
+
+
+ ",81,34,50,34,74,19,88,70,86,73,5da6139c002c29001335b5a2,6478e286dea25592707160af,6478f9c7b3e34b269427607f
+2023-06-01 14:02:52,2023-06-01 14:05:41,IP Address,108.12.36.254,100,168,True,2023-06-01 14:05:41,R_tRFfwFbQEIQDFXb,,,,,43.0391,-76.1277,anonymous,EN,"Skippable ads that you have to watch for 5 seconds before you can skip them to watch your video
+
+
+
+
+ ",0,0,0,0,0,70,60,100,20,100,60d8c6bc9686529cdc824a49,6478e286dea25592707160af,6478f96702b47215a23d99ee
+2023-06-01 14:04:14,2023-06-01 14:06:28,IP Address,71.58.191.37,100,134,True,2023-06-01 14:06:28,R_3JE20mzGnJ1J0dI,,,,,41.2382,-76.9978,anonymous,EN,"Ad that appears on the right-hand side of the video you want to watch. When you land on your video's page, the video immediately starts playing with sound whereas the ad is paused.
+
+
+
+
+ ",0,15,0,10,0,100,5,100,35,100,5a18805f087f2e0001eaf737,6478e286dea25592707160af,6478f9b9b8993d8737ba8cc0
+2023-06-01 14:06:06,2023-06-01 14:07:05,IP Address,64.203.198.143,100,58,True,2023-06-01 14:07:05,R_AI3meAn7R7NAeit,,,,,40.7597,-73.981,anonymous,EN,"Ad that appears on the right-hand side of the video you want to watch. When you land on your video's page, the video immediately starts playing with sound and the ad immediately starts playing without sound.
+
+
+
+
+ ",13,15,19,16,18,77,84,85,84,84,63312f0451ba56e5a520eb62,6478e286dea25592707160af,6478f9e7a54711e3fd09237e
+2023-06-01 14:07:47,2023-06-01 14:09:20,IP Address,70.16.252.129,100,93,True,2023-06-01 14:09:20,R_1pK9SxeHNuN85PL,,,,,37.5109,-77.6429,anonymous,EN,"Ad that appears on the right-hand side of the video you want to watch. When you land on your video's page, the video immediately starts playing with sound and the ad immediately starts playing without sound.
+
+
+
+
+ ",33,63,78,61,65,68,78,87,74,87,58462977d2be990001174ae3,6478e286dea25592707160af,6478fa8cdba1c45b10a25a03
+2023-06-01 14:03:54,2023-06-01 14:10:49,IP Address,172.11.69.54,100,414,True,2023-06-01 14:10:49,R_Oxu4eKikAOnYQ5H,,,,,34.2862,-119.2264,anonymous,EN,"Skippable ads that you have to watch for 5 seconds before you can skip them to watch your video
+
+
+
+
+ ",20,0,20,10,20,30,15,100,55,100,5e6af189bdaa1a0b355f63ae,6478e286dea25592707160af,6478f99fb2e3d2854a50774d
+2023-06-01 14:11:43,2023-06-01 14:13:27,IP Address,69.136.46.232,100,104,True,2023-06-01 14:13:28,R_1d4vE1MuGSFiyCX,,,,,32.296,-81.2354,anonymous,EN,"Skippable ads that you have to watch for 5 seconds before you can skip them to watch your video
+
+
+
+
+ ",9,9,6,11,10,51,50,50,50,53,63c98f9e028e25cc7105548c,6478e286dea25592707160af,6478fb77e914666648abe290
+2023-06-01 14:12:47,2023-06-01 14:14:13,IP Address,108.179.46.114,100,85,True,2023-06-01 14:14:13,R_ptk9F3YAUJcFdXH,,,,,40.5704,-74.5369,anonymous,EN,"Skippable ads that you have to watch for 5 seconds before you can skip them to watch your video
+
+
+
+
+ ",77,21,20,13,18,65,80,82,88,86,63d82bdd6e3e4573e8c70e07,6478e286dea25592707160af,6478fbb5e4ae55f9f5775c1d
+2023-06-01 14:13:10,2023-06-01 14:14:21,IP Address,69.204.28.176,100,70,True,2023-06-01 14:14:22,R_20Z3jNXi2p6D38z,,,,,43.0037,-78.8496,anonymous,EN,"Skippable ads that you have to watch for 5 seconds before you can skip them to watch your video
+
+
+
+
+ ",0,50,50,50,50,0,100,100,100,100,5e2e34ba77d2c74148d7d0d2,6478e286dea25592707160af,6478fbbae7e4a1177d361476
+2023-06-01 14:12:40,2023-06-01 14:14:23,IP Address,174.246.136.150,100,103,True,2023-06-01 14:14:24,R_2TXVA5huRhdssp0,,,,,32.7797,-96.8022,anonymous,EN,"Skippable ads that you have to watch for 5 seconds before you can skip them to watch your video
+
+
+
+
+ ",0,0,0,0,0,27,100,100,100,100,63ea974c81ff0fffe7fb8613,6478e286dea25592707160af,6478fbaee14c4167011f19b8
+2023-06-01 14:12:45,2023-06-01 14:15:10,IP Address,98.252.1.61,100,144,True,2023-06-01 14:15:10,R_2ZOHesNs2VGixeB,,,,,39.3046,-76.6412,anonymous,EN,"Skippable ads that you have to watch for 5 seconds before you can skip them to watch your video
+
+
+
+
+ ",0,0,0,0,0,100,100,100,100,100,614e61ebc144868f312a79b9,6478e286dea25592707160af,6478fbb299ab4652064c95d9
+2023-06-01 14:13:54,2023-06-01 14:15:16,IP Address,174.177.63.2,100,82,True,2023-06-01 14:15:16,R_3h6ADnTxN5SQDLY,,,,,36.045,-84.0396,anonymous,EN,"Skippable ads that you have to watch for 5 seconds before you can skip them to watch your video
+
+
+
+
+ ",0,0,0,0,0,100,100,100,100,100,60394abb2aefd14351543a13,6478e286dea25592707160af,6478fbfa58d3e3189d0ed333
+2023-06-01 14:13:31,2023-06-01 14:15:36,IP Address,199.96.203.78,100,125,True,2023-06-01 14:15:37,R_3dQFQHMBfdwIRMZ,,,,,34.6224,-98.3913,anonymous,EN,"Skippable ads that you have to watch for 5 seconds before you can skip them to watch your video
+
+
+
+
+ ",0,1,2,4,19,54,50,76,97,100,5b498dc7d1a12e0001af3952,6478e286dea25592707160af,6478fbbd20d6fdcbf21f1a08
+2023-06-01 14:12:43,2023-06-01 14:16:02,IP Address,108.86.162.204,100,199,True,2023-06-01 14:16:03,R_23f6vYdlnzFAFEj,,,,,41.6489,-83.6015,anonymous,EN,"Ad that appears on the right-hand side of the video you want to watch. When you land on your video's page, the video immediately starts playing with sound and the ad immediately starts playing without sound.
+
+
+
+
+ ",10,0,40,10,50,55,26,100,20,90,5bca0f4fa84e9f00019cce4e,6478e286dea25592707160af,6478fbb10d23853112ba8cf8
+2023-06-01 14:16:28,2023-06-01 14:18:12,IP Address,198.14.215.113,100,103,True,2023-06-01 14:18:12,R_2DSwtA81rHdXd32,,,,,41.0248,-93.3132,anonymous,EN,"Skippable ads that you have to watch for 5 seconds before you can skip them to watch your video
+
+
+
+
+ ",9,0,0,0,0,50,100,100,100,100,570d30d942a1db000fc4cf87,6478e286dea25592707160af,6478fc8d2cd081349d775bbb
+2023-06-01 14:17:04,2023-06-01 14:18:15,IP Address,73.38.140.5,100,70,True,2023-06-01 14:18:15,R_1fmgUg5VDlQeDqd,,,,,42.4684,-70.9465,anonymous,EN,"Skippable ads that you have to watch for 5 seconds before you can skip them to watch your video
+
+
+
+
+ ",0,1,1,1,0,1,0,0,2,3,60c408b35fcc61f5a24e045c,6478e286dea25592707160af,6478fcbb534e27a46d5d0d4d
+2023-06-01 14:12:58,2023-06-01 14:18:37,IP Address,72.109.124.99,100,339,True,2023-06-01 14:18:37,R_2YfBnPJF6SGFSXu,,,,,34.074,-118.2611,anonymous,EN,"Skippable ads that you have to watch for 5 seconds before you can skip them to watch your video
+
+
+
+
+ ",70,33,25,23,20,0,87,92,26,92,6412eaf350a908af84831b2f,6478e286dea25592707160af,6478fbbfbabe8c4b38cc2c7b
+2023-06-01 14:18:03,2023-06-01 14:18:41,IP Address,174.232.184.21,100,38,True,2023-06-01 14:18:42,R_1q4ZFDF7paSe0QH,,,,,32.7797,-96.8022,anonymous,EN,"Ad that appears on the right-hand side of the video you want to watch. When you land on your video's page, the video immediately starts playing without sound and the ad immediately starts playing with sound.
+
+
+
+
+ ",93,35,22,88,96,24,36,94,29,9,5beeed1b1e78580001dbe859,6478e286dea25592707160af,6478fcea277aecadba06a2a2
+2023-06-01 14:15:02,2023-06-01 14:19:51,IP Address,208.102.206.96,100,289,True,2023-06-01 14:19:52,R_2qdEMd1CfKp4lMO,,,,,39.8209,-84.0194,anonymous,EN,"Ad that appears on the right-hand side of the video you want to watch. When you land on your video's page, the video immediately starts playing with sound and the ad immediately starts playing without sound.
+
+
+
+
+ ",90,0,65,10,55,10,0,90,10,65,63d8032fd2b4f1648f8ca4db,6478e286dea25592707160af,6478fc3b781aab3c40b70faa
+2023-06-01 14:19:04,2023-06-01 14:21:16,IP Address,73.137.95.77,100,131,True,2023-06-01 14:21:17,R_3O6s83GmGCipWRY,,,,,34.0389,-84.3826,anonymous,EN,"Skippable ads that you have to watch for 5 seconds before you can skip them to watch your video
+
+
+
+
+ ",22,65,66,37,38,11,78,72,39,41,5ea120ed66031912aea618ae,6478e286dea25592707160af,6478fd2bc81864b03925de5d
+2023-06-01 14:16:00,2023-06-01 14:21:40,IP Address,174.80.226.135,100,340,True,2023-06-01 14:21:41,R_2ve6VsZxk07Ky16,,,,,36.3966,-78.9933,anonymous,EN,"Skippable ads that you have to watch for 5 seconds before you can skip them to watch your video
+
+
+
+
+ ",10,0,90,0,20,60,35,65,30,30,62df06687ffc916ae47759ee,6478e286dea25592707160af,6478fc63991c9b3519f8a92e
+2023-06-01 14:21:16,2023-06-01 14:21:46,IP Address,108.29.162.12,100,29,True,2023-06-01 14:21:46,R_3oXdiIG5Q32U4jO,,,,,40.7123,-74.0068,anonymous,EN,"Skippable ads that you have to watch for 5 seconds before you can skip them to watch your video
+
+
+
+
+ ",50,60,67,66,59,58,61,61,61,58,5e00fbbf5777b5cea2d27c6a,6478e286dea25592707160af,6478fd7dc98f0ec36a6e97d2
+2023-06-01 14:17:54,2023-06-01 14:21:51,IP Address,173.174.235.171,100,237,True,2023-06-01 14:21:51,R_26llsfISdwFn53A,,,,,29.3959,-98.4761,anonymous,EN,"Skippable ads that you have to watch for 5 seconds before you can skip them to watch your video
+
+
+
+
+ ",100,0,0,0,0,50,100,100,100,100,5daf9e6815dc35001498cd77,6478e286dea25592707160af,6478fce9b9eba3eaba84fd6d
+2023-06-01 14:19:16,2023-06-01 14:22:07,IP Address,24.235.93.51,100,170,True,2023-06-01 14:22:07,R_26a8x9DmAYcC1ku,,,,,39.6343,-77.7337,anonymous,EN,"Skippable ads that you have to watch for 5 seconds before you can skip them to watch your video
+
+
+
+
+ ",6,7,5,5,5,100,100,100,100,100,5fbb4b2f8a2ddbc5095d5895,6478e286dea25592707160af,6478fd3870a22ced8093ed69
+2023-06-01 14:20:59,2023-06-01 14:23:07,IP Address,173.80.142.7,100,128,True,2023-06-01 14:23:08,R_2dsU31C1ZLdJ5gV,,,,,38.4544,-82.2185,anonymous,EN,"Skippable ads that you have to watch for 5 seconds before you can skip them to watch your video
+
+
+
+
+ ",29,39,60,55,62,35,40,68,66,68,5dfab99508267580dcdafe05,6478e286dea25592707160af,6478fd9f8853b133d006c734
+2023-06-01 14:21:59,2023-06-01 14:23:29,IP Address,158.115.163.85,100,90,True,2023-06-01 14:23:30,R_2PcDtfcQHigs8GK,,,,,33.9133,-80.3587,anonymous,EN,"Skippable ads that you have to watch for 5 seconds before you can skip them to watch your video
+
+
+
+
+ ",11,50,85,35,86,20,50,100,70,100,5dc1eb838a84461511b3cd73,6478e286dea25592707160af,6478fde1cff3ec794d507756
+2023-06-01 14:22:02,2023-06-01 14:24:25,IP Address,74.72.215.172,100,143,True,2023-06-01 14:24:26,R_1MZnG3YW8E5qp2t,,,,,40.7123,-74.0068,anonymous,EN,"Skippable ads that you have to watch for 5 seconds before you can skip them to watch your video
+
+
+
+
+ ",50,1,1,39,12,26,29,14,13,8,5b2890f10ec82d0001d24b61,6478e286dea25592707160af,6478fddb6eab73dcde6f4c0c
+2023-06-01 14:23:34,2023-06-01 14:24:32,IP Address,172.59.88.33,100,57,True,2023-06-01 14:24:33,R_12RSuJpLKPGI2ht,,,,,35.1387,-90.0095,anonymous,EN,"Skippable ads that you have to watch for 5 seconds before you can skip them to watch your video
+
+
+
+
+ ",46,0,0,0,0,0,100,100,100,100,5aad21134ea21d000101bbff,6478e286dea25592707160af,6478fe37b6468d704c3a45cc
+2023-06-01 14:23:28,2023-06-01 14:24:45,IP Address,136.55.60.231,100,76,True,2023-06-01 14:24:45,R_9nwMyttLU301hBL,,,,,33.7474,-84.3747,anonymous,EN,"Skippable ads that you have to watch for 5 seconds before you can skip them to watch your video
+
+
+
+
+ ",0,2,0,0,0,100,100,100,100,100,62a66cca55a22d09b8d6eb3c,6478e286dea25592707160af,6478fe3ac6e5dfa97aff3fa1
+2023-06-01 14:25:07,2023-06-01 14:25:55,IP Address,104.63.163.18,100,47,True,2023-06-01 14:25:56,R_2fxEYRlHR9vzlYp,,,,,34.7456,-92.3419,anonymous,EN,"Skippable ads that you have to watch for 5 seconds before you can skip them to watch your video
+
+
+
+
+ ",0,0,0,0,0,92,91,92,91,93,5ce4150a8ea1c40019a7cebe,6478e286dea25592707160af,6478fe9eb6468d704c3a45e2
+2023-06-01 14:24:02,2023-06-01 14:26:22,IP Address,75.178.0.122,100,139,True,2023-06-01 14:26:22,R_1gMB4jPk863LdRx,,,,,35.7343,-79.7916,anonymous,EN,"Skippable ads that you have to watch for 5 seconds before you can skip them to watch your video
+
+
+
+
+ ",100,50,50,50,50,100,100,100,100,100,62926289ad98fad2b2abf44f,6478e286dea25592707160af,6478fe5aa106cad2df2bc8c3
+2023-06-01 14:24:15,2023-06-01 14:26:41,IP Address,50.226.124.140,100,145,True,2023-06-01 14:26:41,R_2v1B8wo77FqogI1,,,,,41.8812,-87.8457,anonymous,EN,"Ad that appears on the right-hand side of the video you want to watch. When you land on your video's page, the video immediately starts playing with sound and the ad immediately starts playing without sound.
+
+
+
+
+ ",47,33,10,17,21,98,73,100,77,100,5dee44454d7bea4e3f4b44a6,6478e286dea25592707160af,6478fe69634fa576a9531521
+2023-06-01 14:26:04,2023-06-01 14:26:46,IP Address,174.250.211.89,100,42,True,2023-06-01 14:26:47,R_bDwAhhGQLmGMULv,,,,,38.5774,-90.6709,anonymous,EN,"Skippable ads that you have to watch for 5 seconds before you can skip them to watch your video
+
+
+
+
+ ",20,0,0,0,0,0,100,100,100,100,5d166f8340218700169a0814,6478e286dea25592707160af,6478fed72b67f3c9046e97c6
+2023-06-01 14:22:42,2023-06-01 14:27:03,IP Address,172.59.121.42,100,261,True,2023-06-01 14:27:04,R_27efaafXt5lH2z4,,,,,35.4312,-97.4934,anonymous,EN,"Skippable ads that you have to watch for 5 seconds before you can skip them to watch your video
+
+
+
+
+ ",95,20,80,30,80,20,10,100,60,10,6433c0a0d4f699c45c47981d,6478e286dea25592707160af,6478fda7a42b8ef02df3da9e
+2023-06-01 14:25:30,2023-06-01 14:27:13,IP Address,71.255.64.18,100,103,True,2023-06-01 14:27:14,R_BwUi6mqt7rKhx7j,,,,,40.7787,-73.9132,anonymous,EN,"Skippable ads that you have to watch for 5 seconds before you can skip them to watch your video
+
+
+
+
+ ",50,37,31,32,28,13,100,100,100,100,63f808544404ae2bd9790bd6,6478e286dea25592707160af,6478feb003c77395d03d9973
+2023-06-01 14:22:03,2023-06-01 14:27:27,IP Address,45.49.167.113,100,324,True,2023-06-01 14:27:28,R_31jciisNrFCrLhc,,,,,33.7188,-118.0033,anonymous,EN,"Skippable ads that you have to watch for 5 seconds before you can skip them to watch your video
+
+
+
+
+ ",24,42,42,42,42,9,85,85,85,85,63ff949bf1ef828defa7891a,6478e286dea25592707160af,6478fdde75dff55bd2db3013
+2023-06-01 14:24:13,2023-06-01 14:27:39,IP Address,174.164.237.4,100,206,True,2023-06-01 14:27:40,R_1eLASTZfuzJDVGk,,,,,47.5291,-121.8231,anonymous,EN,"Skippable ads that you have to watch for 5 seconds before you can skip them to watch your video
+
+
+
+
+ ",18,0,0,0,0,75,75,87,73,95,5f6be2474140c215c8ebbe52,6478e286dea25592707160af,6478fe61e1f5b042c4908f09
+2023-06-01 14:25:44,2023-06-01 14:35:14,IP Address,107.136.156.36,100,569,True,2023-06-01 14:35:14,R_1gi1kZeIF9x0pIw,,,,,32.4984,-85.0184,anonymous,EN,"Ad that appears on the right-hand side of the video you want to watch. When you land on your video's page, the video immediately starts playing with sound and the ad immediately starts playing without sound.
+
+
+
+
+ ",58,69,83,69,75,82,57,73,72,61,5fba83d59b6574a3b7a9cdef,6478e286dea25592707160af,6478febf41641206df507725
+2023-06-01 14:26:24,2023-06-01 14:36:08,IP Address,74.89.138.176,100,584,True,2023-06-01 14:36:08,R_2aQPyH7iiwToead,,,,,41.3033,-73.7829,anonymous,EN,"Skippable ads that you have to watch for 5 seconds before you can skip them to watch your video
+
+
+
+
+ ",50,50,50,50,50,58,29,66,62,57,633fadee5fc02d5c5e7c8eec,6478e286dea25592707160af,6478fee20a6f27a165d259b7
+2023-06-01 13:58:18,2023-06-01 13:58:48,IP Address,174.72.132.192,33,30,False,2023-06-01 14:37:49,R_1N4XkZRMPALf5dV,,,,,,,anonymous,EN,"Skippable ads that you have to watch for 5 seconds before you can skip them to watch your video
+
+
+
+
+ ",,,,,,,,,,,5d17ce93ac37cd0019535088,6478e286dea25592707160af,6478f8542917f059db54c5c5
